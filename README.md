@@ -8,5 +8,5 @@ Inspired by "The King's League" games developed by kurechii ( http://armorgames.
 
 When you first download the file you must:
   1.) Unzip the file
-  2.) Go to file's root directory on your command line
+  2.) cd to "Contrast/bin" directory on your command line
   3.) Type in "java main.Contrast", press Enter, and the program should run
