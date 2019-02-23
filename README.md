@@ -1,4 +1,8 @@
-Concept: "In a land void of color and diversity, only a brave few will choose to be different."
+# Contrast
+A Java game made for my high school IB Computer Science HL final project (Fall 2014 - Spring 2015)
+
+## Concept: 
+"In a land void of color and diversity, only a brave few will choose to be different."
 
 In this game you must first recruit your players (Warriors and Archers), specialize them to your liking, and battle them 
 in the arena against your AI enemies. 
