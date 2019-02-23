@@ -26,5 +26,5 @@ Inspired by "The King's League" games developed by kurechii ( http://armorgames.
 ## How to run
 * cd into `bin` 
 ```java
-java ./main/Contrast
+java main/Contrast
 ```
